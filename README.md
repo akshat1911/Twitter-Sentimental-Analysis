@@ -26,3 +26,14 @@ This project performs sentiment analysis on tweets from Twitter. The goal is to 
 ```bash
 git clone https://github.com/yourusername/twitter-sentiment-analysis.git
 cd twitter-sentiment-analysis
+```
+
+### Explanation:
+- **Introduction**: Briefly explains the purpose of the project.
+- **Features**: Highlights the main functionalities of the project.
+- **Requirements**: Lists the dependencies and tools required to run the project.
+- **Installation**: Step-by-step instructions on setting up the project.
+- **Usage**: Instructions on how to use the scripts for tweet collection, sentiment analysis, and visualization.
+- **File Structure**: Describes the structure of the repository and the purpose of each file.
+- **Contributing**: Guidelines on contributing to the project.
+- **License**: A section for licensing details, in this case, MIT.
